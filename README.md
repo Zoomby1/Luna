@@ -4,4 +4,4 @@
 !(https://github.com/Zoomby1/Luna/blob/main/untitled.svg)
 !ссылки (https://github.com/Zoomby1/Luna/blob/main/untitled.svg)
 **просто текст и _смайлики_ ,вот** :smile: :smile: :smile:
-``` <img src="circle.svg" alt="a red circle" height="100px" width="100px" /> ```
+ <img src="circle.svg" alt="a red circle" height="100px" width="100px" />
